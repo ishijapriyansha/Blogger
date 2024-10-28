@@ -1,6 +1,6 @@
-# Blog Chain
+# Blogger
 
-**Blog Chain** is a simple web application that allows users to create, update, and delete blog posts. Built with Django for the backend and MongoDB for data storage, this project demonstrates full CRUD (Create, Read, Update, Delete) functionality along with seamless integration between Django and MongoDB.
+**Blogger** is a simple web application that allows users to create, update, and delete blog posts. Built with Django for the backend and MongoDB for data storage, this project demonstrates full CRUD (Create, Read, Update, Delete) functionality along with seamless integration between Django and MongoDB.
 
 ## Features
 
